@@ -31,10 +31,6 @@ In my day-to-day job, I run Tropos while in the late hours I still enjoy coding 
 [<img align="left" alt="jvdborre | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
-![](https://komarev.com/ghpvc/?username=antonbabenko&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=393243)
-
 [website]: https://www.jorisvandenborre.com
 [twitter]: https://twitter.com/jvdborre
 [linkedin]: https://be.linkedin.com/in/jvdborre
