@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Joris 👋
 
 
-I am founder of [Tropos][tropos.io] - a company which helps deliver end-to-end services for data analytics, data products and data platforms. We're 100% focused on using public cloud. Ask us about desining, building and operating business-first data analytics.
+I am founder of [Tropos][tropos] - a company which helps deliver end-to-end services for data analytics, data products and data platforms. We're 100% focused on using public cloud. Ask us about desining, building and operating business-first data analytics.
 
 We were the first [Snowflake](https://www.snowflake.com) partner in Belgium, and one of the first in Europe. Ever since, we've been building practices, tools and methods to lower the entrance barrier to exciting analytics projects at scale.
 
@@ -31,6 +31,7 @@ In my day-to-day job, I run Tropos while in the late hours I still enjoy coding 
 [<img align="left" alt="jvdborre | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+[tropos]: https://www.tropos.io
 [website]: https://www.jorisvandenborre.com
 [twitter]: https://twitter.com/jvdborre
 [linkedin]: https://be.linkedin.com/in/jvdborre
