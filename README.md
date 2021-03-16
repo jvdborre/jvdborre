@@ -21,7 +21,7 @@ I am founder of [Tropos][tropos] - a company which helps deliver end-to-end serv
 
 We were the first [Snowflake](https://www.snowflake.com) partner in Belgium, and one of the first in Europe. Ever since, we've been building practices, tools and methods to lower the entrance barrier to exciting analytics projects at scale.
 
-In my day-to-day job, I run Tropos while in the late hours I still enjoy coding smaller POC's and pilots together with our team. 
+In my day-to-day job, I run Tropos while in the afterhours I still enjoy coding smaller POC's and pilots together with our team. 
 
 
 ### Connect with me
